@@ -8,3 +8,5 @@ Hard build cmd: `g++ -std=c++17 -Wshadow -Wall -o "%e" "%f" -g -fsanitize=addres
 Color Scheme: Brogrammer
 Theme: Adaptive Sublime Default
 ```
+
+this repo containes essential files from "Sublime Text/Packages" folder
