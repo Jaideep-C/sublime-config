@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"Package Control",
 		"Skins",
 		"Theme - Brogrammer",
+		"Vintageous",
 	],
 }

@@ -6,4 +6,7 @@
 		"Vintage",
 	],
 	"skin": "User/cpp",
+	"font_face":"JetBrains Mono",
+	"font_options": ["gray_antialias", "no_round"],
+	"vintageous_use_ctrl_keys": true,
 }
