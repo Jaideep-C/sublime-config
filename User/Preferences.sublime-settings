@@ -4,9 +4,11 @@
 	"ignored_packages":
 	[
 		"Vintage",
+		"Vintageous",
 	],
 	"skin": "User/cpp",
 	"font_face":"JetBrains Mono",
 	"font_options": ["gray_antialias", "no_round"],
-	"vintageous_use_ctrl_keys": true,
+	"vintageous_use_ctrl_keys": false,
+	"font_size": 12,
 }
